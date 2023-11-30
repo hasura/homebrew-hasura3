@@ -1,4 +1,4 @@
-# Hasura V3 CLI
+# Homebrew tap for Hasura V3 CLI
 
 ## Installation
 
