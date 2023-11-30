@@ -1,9 +1,9 @@
 class Hasura3 < Formula
   desc "Hasura V3 CLI"
   homepage "https://hasura.io"
-  version "2023.11.30"
+  version "2023.11.30.2"
   url "https://storage.googleapis.com/graphql-engine-cdn.hasura.io/ddn/cli/#{version}/hasura3-cli-2032.11.30.tar.gz"
-  sha256 "48f909434a1eaa30c0899f3202a6762d8ad7c28ed91c7f6296921e1574d30044"
+  sha256"e12813e9255b359f9b2983eb865e78d86cf23a8789dedc48eca6172a8c45fee5"
 
   on_macos do
     if Hardware::CPU.intel?
